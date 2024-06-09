@@ -179,7 +179,7 @@ footer{
     margin: 0 0.75em;
 }
 
-@media screen and (max-width: 766px) {
+@media screen and (max-width: 1300px) {
     
     .picture{
         height: 40vw;
@@ -236,7 +236,7 @@ footer{
         font-size: 1.3vw;
     }
 
-    @media screen and (max-width: 950px) {
+    @media screen and (max-width: 760px) {
     
         body{
             width: 100vw;
@@ -269,7 +269,7 @@ footer{
         }
 
         #contact{
-            margin-bottom: 6em;
+            margin-bottom: 3em;
         }
 
         .picture{
@@ -277,7 +277,7 @@ footer{
         }
 
         nav ul li {
-            font-size: 1.1em;
+            font-size: .5em;
         }
 
         h1{
