@@ -179,7 +179,7 @@ footer{
     margin: 0 0.75em;
 }
 
-@media screen and (max-width: 1300px) {
+@media screen and (max-width: 766px) {
     
     .picture{
         height: 40vw;
